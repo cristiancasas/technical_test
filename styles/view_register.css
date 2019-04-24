@@ -1,0 +1,41 @@
+.tabla {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:12px;
+  text-align: right;
+  width: 600px;
+  text-align: center;
+}
+.tabla th {
+  padding: 5px;
+  font-size: 16px;
+  background-color: #83aec0;
+  color: #FFFFFF;
+  font-family: “Trebuchet MS”, Arial;
+  text-transform: uppercase;
+}
+.tabla td {
+  padding: 5px;
+  font-size: 16px;
+  background-color: #fff;
+  color: #000;
+  font-family: “Trebuchet MS”, Arial;
+  text-transform: uppercase;
+}
+.button_edit{
+  font-size: 15px;
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+}
+.button_delete{
+  font-size: 15px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+.button_add{
+  font-size: 15px;
+  background-color: #04dec9;
+  color: white;
+  font-weight: bold;
+}
